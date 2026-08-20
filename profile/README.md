@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/public-banner.png" alt="CodeBlue — Technology Services New Zealand" width="100%">
+</p>
+
 # CodeBlue
 
 Welcome to the **CodeBlue** GitHub organization — the public home for FUJIFILM CodeBlue Limited engineering collaboration in New Zealand.
