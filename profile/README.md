@@ -4,7 +4,7 @@
 
 # CodeBlue
 
-Welcome to the **CodeBlue** GitHub organization — the public home for FUJIFILM CodeBlue Limited engineering collaboration in New Zealand.
+Welcome to the **CodeBlue** GitHub organization — the public home for FUJIFILM CodeBlue New Zealand Limited engineering collaboration in New Zealand.
 
 We design, build, and operate technology services spanning cybersecurity, cloud & infrastructure, data protection, and modern workplace platforms.
 
@@ -39,5 +39,5 @@ If you believe you have found a security issue related to CodeBlue systems or co
 ---
 
 <p align="center">
-  <i>FUJIFILM CodeBlue Limited</i>
+  <i>FUJIFILM CodeBlue New Zealand Limited</i>
 </p>
